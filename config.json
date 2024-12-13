@@ -35,27 +35,27 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100071880593545"
+    "100079235195789"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100071880593545"
+      "100079235195789"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐀𝐌𝐈𝐍𝐔𝐋-𝐁𝐎𝐓",
-  "prefix": "/",
+  "nickNameBot": "T-T",
+  "prefix": "/"
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
   "authorName": "aminul sordar",
-  "facebook2": "https://www.facebook.com/100071880593545",
-  "facebook": "https://www.facebook.com/100071880593545",
-  "email": "aminulsordar04@gmail.com",
+  "facebook2": "",
+  "facebook": "",
+  "email": "",
   "replit": "Off",
-  "github": "https://github.com/Aminulsordar",
+  "github": "",
   "insta": "no",
   "age": "18+",
   "TG": "",
@@ -171,7 +171,7 @@
   "whiteListModeThread": {
     "enable": false,
     "whiteListThreadIds": [
-      "7271330272945067"
+      "100079235195789"
     ],
     "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
